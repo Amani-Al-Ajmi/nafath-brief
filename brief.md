@@ -55,3 +55,31 @@ To report service usage by region and day, it is important to understand the dif
 Best choice: Star Schema is suitable for regional and daily reports because it requires fewer JOIN operations. This helps retrieve data faster and makes reporting easier and more efficient.
 
 Resource:< star schema vs snowflake>https://www.coursera.org/articles/star-schema-vs-snowflake-schema
+
+## Misconception in My Track
+
+Common Wrong Belief: Some people believe that increasing network bandwidth always solves network congestion.
+Correct Version: Increasing bandwidth can help, but it may not solve congestion in every situation. Congestion can happen when many users access the network at the same time or when network resources are limited. It can also be managed by prioritizing important traffic and distributing resources efficiently. In 5G emergency services, network slicing can provide dedicated resources for emergency responders, helping maintain reliable communication during busy periods and disasters.
+
+Resource:<Overview and Principles of Internet Traffic Engineering >-https://www.rfc-editor.org/rfc/rfc9522.html
+
+## Open Question: 
+I would like to learn more about how 5G network slicing works in real situations. I would verify how telecom operators ensure that emergency responders maintain reliable communication during network congestion, outages, and cyberattacks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
