@@ -66,8 +66,9 @@ Resource:<Overview and Principles of Internet Traffic Engineering >-https://www.
 ## Open Question: 
 I would like to learn more about how 5G network slicing works in real situations. I would verify how telecom operators ensure that emergency responders maintain reliable communication during network congestion, outages, and cyberattacks.
 
-
-
+## Overview
+A telecommunications operator launching a 5G service for emergency responders must ensure reliable and secure communication during network congestion, outages, and cyberattacks. Six IT fields work together to achieve this goal.Software Engineering develops reliable applications that store data during outages and synchronize it when connectivity returns. Networking maintains high-speed connections by prioritizing emergency traffic and providing backup links. Cybersecurity protects systems and sensitive information through encryption, authentication, and continuous monitoring. Artificial Intelligence (AI) analyzes network data to predict congestion, detect unusual activities, and recommend actions to improve performance. Mobile Technology enables emergency responders to use 5G devices for voice calls, live video, location sharing, and accessing critical applications. Data Management collects, organizes, and securely stores accurate information to support timely decisions.By integrating these six IT fields, the operator can improve network reliability, protect sensitive information, maintain service availability, and support effective emergency response when communication is essential.
+## Networking
 
 
 
